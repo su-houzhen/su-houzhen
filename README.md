@@ -34,7 +34,7 @@
 </p>
 
 <p>
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=su-houzhen&show_icons=true&count_private=true&theme=radical" alt="su-houzhen" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=su-houzhen&show_icons=true&layout=compact&count_private=true&theme=radical" alt="su-houzhen" />
 </p>
 
 <p>
