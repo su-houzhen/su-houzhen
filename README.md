@@ -34,7 +34,7 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=su-houzhen&count_private=true&theme=radical" alt="su-houzhen" />
 </p>
 
-<p align="center">&nbsp;
+<p align="left">&nbsp;
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=su-houzhen" alt="su-houzhen" /></a>
 </p>
 
