@@ -2,15 +2,8 @@
 
 ### Hi there 👋
 
-<p align="middle">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=su-houzhen" alt="su-houzhen" />
-  </a>
-</p>
-
-
-<h3 align="middle">Languages and Tools:</h3>
-<p align="middle">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" alt="c" width="40" height="40"/>
   </a>
@@ -34,15 +27,15 @@
 </p>
 
 <p>
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=su-houzhen&show_icons=true&layout=compact&count_private=true&theme=radical" alt="su-houzhen" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=su-houzhen&show_icons=true&theme=radical" alt="su-houzhen" />
 </p>
 
 <p>
-  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=su-houzhen&show_icons=true&theme=radical" alt="su-houzhen" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=su-houzhen&count_private=true&theme=radical" alt="su-houzhen" />
 </p>
 
 <p>
-  <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=su-houzhen&count_private=true&theme=radical" alt="su-houzhen" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=su-houzhen&show_icons=true&layout=compact&count_private=true&theme=radical" alt="su-houzhen" />
 </p>
 
 - 💬 Ask me about **[here](https://github.com/su-houzhen/su-houzhen/issues)**
