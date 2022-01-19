@@ -34,6 +34,9 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=su-houzhen&count_private=true&theme=radical" />
 </p>
 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=su-houzhen" /></a>
+</p>
 
 <!--
 **su-houzhen/su-houzhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
