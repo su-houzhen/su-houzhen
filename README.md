@@ -1,6 +1,51 @@
+![](https://visitor-badge.glitch.me/badge?page_id=su-houzhen)
+
 ### Hi there 👋
 
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=su-houzhen&show_icons=true&theme=radical)
+<p align="middle">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=su-houzhen" alt="su-houzhen" />
+  </a>
+</p>
+
+
+<h3 align="middle">Languages and Tools:</h3>
+<p align="middle">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://golang.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  </a>
+</p>
+<p align="middle"> 
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://clickhouse.tech/" target="_blank">
+    <img src="https://clickhouse.tech/images/logo.svg" alt="ClickHouse" width="40" height="40"/>
+  </a>
+</p>
+
+<p>
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=su-houzhen&show_icons=true&count_private=true&theme=radical" alt="su-houzhen" />
+</p>
+
+<p>
+  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=su-houzhen&show_icons=true&theme=radical" alt="su-houzhen" />
+</p>
+
+<p>
+  <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=su-houzhen&count_private=true&theme=radical" alt="su-houzhen" />
+</p>
+
+- 💬 Ask me about **[here](https://github.com/su-houzhen/su-houzhen/issues)**
 
 <!--
 **su-houzhen/su-houzhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
